@@ -1,55 +1,55 @@
-# 🧠 Zakaria Zaher's Project Showcase
+# 🧠 Zakaria Zaher's Project Overview
 
-Hey! I'm a software engineering student and indie developer focused on building real-world software and smart systems across web, mobile, cloud, and hardware. Below is a selection of my private projects — from IoT and DevOps to full-stack apps and smart automation.
+Welcome! I'm a software engineering student and indie developer with a focus on building real-world software across web, mobile, cloud, and smart systems. This repository provides a brief selection of private projects I've worked on — from full-stack development to DevOps, IoT, and blockchain integration.
 
-Most of these projects are in private repositories. Feel free to reach out if you'd like a demo.
+> 📌 **Note:** This is not a complete or ranked list of all my work. It’s simply a quick overview intended for internship applications, enterprise interest, and academic visibility. Feel free to reach out for more detailed demos or walkthroughs.
 
 ---
 
 ## 💬 Real-Time Chat App (Laravel + Livewire)
-A full-stack chat system with real-time messaging, notifications, and clean UI using Livewire and Alpine.js.
+A real-time messaging platform with authentication, Livewire components, and a clean user interface.
 
 **Tech Used:** Laravel · Livewire · Alpine.js · MySQL · Tailwind CSS  
-**🔒 Note:** This project is stored in a private repository. Demo available upon request.
+**🔒 Repo is private. Demo available on request.**
 
 ---
 
 ## 🚘 RentHere.ma – Car Rental SaaS
-A multi-agency car rental management platform with admin dashboards, reservations, email notifications, and filtering.
+Multi-agency rental system with admin dashboards, reservation flows, and email notifications, built for the Moroccan market.
 
 **Tech Used:** Laravel · PHP · MySQL · Blade · Bootstrap  
-**🔒 Note:** This project is stored in a private repository. Demo available upon request.
+**🔒 Repo is private. Demo available on request.**
 
 ---
 
-## 🌡️ Blockchain-Based Temperature Logger (IoT + Hedera)
-An IoT system that reads temperature from a DHT11 sensor via ESP8266 and Raspberry Pi, then logs the data on Hedera Hashgraph via smart contracts. Also includes a live dashboard.
+## 🌡️ Blockchain Temperature Logger (IoT + Hedera)
+Temperature data is read from a DHT11 sensor via ESP and Raspberry Pi, pushed via MQTT, and logged to the Hedera network. Includes a live dashboard and Telegram alerts.
 
-**Tech Used:** Python · MQTT · DHT11 · Raspberry Pi · ESP8266 · Hedera Hashgraph · Flask · Chart.js  
-**🔒 Note:** This project is stored in a private repository. Demo available upon request.
+**Tech Used:** Python · MQTT · Hedera · Flask · Chart.js · ESP8266 · Raspberry Pi · DHT11  
+**🔒 Repo is private. Demo available on request.**
 
 ---
 
 ## 📦 Smart Inventory System (RFID + Blockchain)
-IoT-powered inventory tracking using RFID tags. Automatically detects low stock, generates supplier requests, and uses Hedera smart contracts for on-chain automation.
+An RFID-based system for real-time stock tracking and auto-ordering. Uses smart contracts and AI-driven alerts.
 
-**Tech Used:** Python · Spring Boot · Hedera · RFID · Firebase · MQTT  
-**🔒 Note:** This project is stored in a private repository. Demo available upon request.
+**Tech Used:** Python · Spring Boot · Hedera · Firebase · RFID · AI · MQTT  
+**🔒 Repo is private. Demo available on request.**
 
 ---
 
 ## 🧠 Chkoun Ana? – AI Personality App
-A fun and intelligent personality test app in Moroccan Darija that uses AI to generate personalized reports based on user choices.
+A mobile app that analyzes user choices and generates personality reports in Moroccan Darija using GPT-based logic.
 
 **Tech Used:** Flutter · Firebase · OpenAI API  
-**🔒 Note:** This project is stored in a private repository. Demo available upon request.
+**🔒 Repo is private. Demo available on request.**
 
 ---
 
 ## 📊 DevOps-Ready Delivery Dashboard
-A delivery management dashboard with dynamic filters, real-time updates, role-based access, and CI/CD deployment.
+Dashboard system with dynamic filters, role-based access, and deployment via Docker and Railway. Designed for operational teams.
 
 **Tech Used:** React · Spring Boot · PostgreSQL · Docker · Railway  
-**🔒 Note:** This project is stored in a private repository. Demo available upon request.
+**🔒 Repo is private. Demo available on request.**
 
 ---
