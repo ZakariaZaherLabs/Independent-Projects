@@ -1,55 +1,55 @@
 # 🧠 Zakaria Zaher's Project Overview
 
-Welcome! I'm a software engineering student and indie developer with a focus on building real-world software across web, mobile, cloud, and smart systems. This repository provides a brief selection of private projects I've worked on — from full-stack development to DevOps, IoT, and blockchain integration.
+Welcome! I'm a full stack developer and indie builder focused on delivering real-world software across web, mobile, cloud, and connected systems. This portfolio highlights select private projects covering full-stack development, DevOps, IoT, and blockchain integration.
 
-> 📌 **Note:** This is not a complete or ranked list of all my work. It’s simply a quick overview intended for internship applications, enterprise interest, and academic visibility. Feel free to reach out for more detailed demos or walkthroughs.
+> 📌 **Note:** These are just highlights. Most repos are private — demos available on request.
 
 ---
 
 ## 💬 Real-Time Chat App (Laravel + Livewire)
-A real-time messaging platform with authentication, Livewire components, and a clean user interface.
+A real-time messaging platform with secure authentication, reactive components, and modern UI.
 
 **Tech Used:** Laravel · Livewire · Alpine.js · MySQL · Tailwind CSS  
-**🔒 Repo is private. Demo available on request.**
+**🔒 Repo is private. Demo available on request**
 
 ---
 
 ## 🚘 RentHere.ma – Car Rental SaaS
-Multi-agency rental system with admin dashboards, reservation flows, and email notifications, built for the Moroccan market.
+Multi-agency rental system for Morocco. Features reservation flows, admin dashboards, and transactional emails.
 
 **Tech Used:** Laravel · PHP · MySQL · Blade · Bootstrap  
-**🔒 Repo is private. Demo available on request.**
+**🔒 Repo is private. Demo available on request**
 
 ---
 
 ## 🌡️ Blockchain Temperature Logger (IoT + Hedera)
-Temperature data is read from a DHT11 sensor via ESP and Raspberry Pi, pushed via MQTT, and logged to the Hedera network. Includes a live dashboard and Telegram alerts.
+IoT sensors log live data to the Hedera network via MQTT. Dashboard includes real-time charts, Telegram alerts, and on-chain tracking.
 
-**Tech Used:** Python · MQTT · Hedera · Flask · Chart.js · ESP8266 · Raspberry Pi · DHT11  
-**🔒 Repo is private. Demo available on request.**
+**Tech Used:** Python · MQTT · Hedera · Flask · Chart.js · ESP8266 · Raspberry Pi  
+**🔒 Repo is private. Demo available on request**
 
 ---
 
 ## 📦 Smart Inventory System (RFID + Blockchain)
-An RFID-based system for real-time stock tracking and auto-ordering. Uses smart contracts and AI-driven alerts.
+RFID-tagged stock tracking system with auto-restock logic, Hedera smart contracts, and AI-generated purchase triggers.
 
 **Tech Used:** Python · Spring Boot · Hedera · Firebase · RFID · AI · MQTT  
-**🔒 Repo is private. Demo available on request.**
+**🔒 Repo is private. Demo available on request**
 
 ---
 
 ## 🧠 Chkoun Ana? – AI Personality App
-A mobile app that analyzes user choices and generates personality reports in Moroccan Darija using GPT-based logic.
+A fun mobile app that uses GPT to analyze answers and generate personality reports in Moroccan Darija.
 
 **Tech Used:** Flutter · Firebase · OpenAI API  
-**🔒 Repo is private. Demo available on request.**
+**🔒 Repo is private. Demo available on request**
 
 ---
 
 ## 📊 DevOps-Ready Delivery Dashboard
-Dashboard system with dynamic filters, role-based access, and deployment via Docker and Railway. Designed for operational teams.
+Admin system for delivery operations with real-time filters, role-based access, and automated deployment.
 
 **Tech Used:** React · Spring Boot · PostgreSQL · Docker · Railway  
-**🔒 Repo is private. Demo available on request.**
+**🔒 Repo is private. Demo available on request**
 
 ---
